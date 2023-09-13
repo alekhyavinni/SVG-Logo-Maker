@@ -12,7 +12,8 @@
 
 To Create an SVG logo by selecting your preferred shape (circle, square, or triangle), specifying shape and text colors through color keywords or hexadecimal values, and entering a brief text (up to 3 characters) with your chosen text color.
 
-
+# Video  
+![GIF of my project in action](./Assets/logoMaker.gif)
 
 
 ## Table of Contents
@@ -43,5 +44,7 @@ This project was created as a challenge assignment for the UT Full Stack Boot Ca
 ## Tests
 Each shape class (Circle, Square, and Triangle) is tested for a render() method that returns a string for the corresponfing SVG file matching color and text requests. Type "npm test" in the command line and Jest will run all three tests.
 
+## Questions
+  If you have any questions about this projects, please contact me directly at alekhyavinni12@gmail.com. You can view more of my projects at https://github.com/alekhyavinni
 
-
+</div>
